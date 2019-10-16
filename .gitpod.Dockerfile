@@ -1,4 +1,4 @@
-FROM androidsdk/android-26
+FROM mingc/android-build-box
 USER root
 
 # Install custom tools, runtime, etc. using apt-get
