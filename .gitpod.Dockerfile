@@ -1,4 +1,4 @@
-FROM mingc/android-build-box
+FROM circleci/android
 USER root
 
 # Install custom tools, runtime, etc. using apt-get
