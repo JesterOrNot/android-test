@@ -1,4 +1,4 @@
-FROM circleci/android
+FROM bitriseio/docker-android
 USER root
 
 # Install custom tools, runtime, etc. using apt-get
